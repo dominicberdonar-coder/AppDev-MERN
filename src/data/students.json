@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Dela Cruz",
+    "course": "BSIT",
+    "yearLevel": 3,
+    "sex": "Male",
+    "age": 21,
+    "email": "juan.delacruz@wmsu.edu.ph"
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "course": "BSCS",
+    "yearLevel": 2,
+    "sex": "Female",
+    "age": 20,
+    "email": "maria.santos@wmsu.edu.ph"
+  },
+  {
+    "id": 3,
+    "name": "Pedro Reyes",
+    "course": "BSIS",
+    "yearLevel": 4,
+    "sex": "Male",
+    "age": 22,
+    "email": "pedro.reyes@wmsu.edu.ph"
+  },
+  {
+    "id": 4,
+    "name": "Ana Garcia",
+    "course": "BSIT",
+    "yearLevel": 1,
+    "sex": "Female",
+    "age": 18,
+    "email": "ana.garcia@wmsu.edu.ph"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Mendoza",
+    "course": "BSCS",
+    "yearLevel": 3,
+    "sex": "Male",
+    "age": 21,
+    "email": "carlos.mendoza@wmsu.edu.ph"
+  }
+]
